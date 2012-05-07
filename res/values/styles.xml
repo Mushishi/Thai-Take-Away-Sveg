@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <style 
+        name="Theme.Mushishi"
+        parent="android:Theme.Black">
+    </style>
+
+   <style 
+        name="Theme.Mushishi.NoTitleBar"
+        parent="android:Theme.Black.NoTitleBar">
+    </style>
+
+    <style 
+        name="Theme.Mushishi.Fullscreen"
+        parent="android:Theme.Black.NoTitleBar.Fullscreen">
+    </style>
+</resources>

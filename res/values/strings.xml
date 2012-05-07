@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Thai Take Away Sveg!</string>
+    <string name="app_name">Thai Take Away</string>
+    <string name="button1_label">Dagens Menu</string>
+    <string name="button2_label">Tisdag</string>
+    <string name="button3_label">Onsdag</string>
+    <string name="button4_label">Torsdag</string>
+    <string name="button5_label">Fredag</string>
+    <string name="button6_label">About</string>    
+    </resources>
